@@ -36,7 +36,7 @@
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/meituan-longcat/LongCat-Flash-Prover/blob/main/LongCat_Flash_Prover_Technical_Report.pdf"><b>Tech Report</b>&nbsp;📄</a>
+  <a href="https://arxiv.org/pdf/2603.21065"><b>Tech Report</b>&nbsp;📄</a>
 </p>
 
 
@@ -268,8 +268,26 @@ This proprietary model has been custom-optimized for mathematical and formal the
 This model has not been specifically designed or comprehensively evaluated for every possible downstream application. 
 It is not recommended for use as a regular conversational AI.
 
+## Citation
+
+We kindly encourage citation of our work if you find it useful.
+
+```
+@misc{wang2026longcatflashproveradvancingnativeformal,
+      title={LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning}, 
+      author={Jianing Wang and Jianfei Zhang and Qi Guo and Linsen Guo and Rumei Li and Chao Zhang and Chong Peng and Cunguang Wang and Dengchang Zhao and Jiarong Shi and Jingang Wang and Liulin Feng and Mengxia Shen and Qi Li and Shengnan An and Shun Wang and Wei Shi and Xiangyu Xi and Xiaoyu Li and Xuezhi Cao and Yi Lu and Yunke Zhao and Zhengyu Chen and Zhimin Lin and Wei Wang and Peng Pei and Xunliang Cai},
+      year={2026},
+      eprint={2603.21065},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2603.21065}, 
+}
+```
+
 ## Contact
 Please contact us at <a href="mailto:longcat-team@meituan.com">longcat-team@meituan.com</a> or join our WeChat Group if you have any questions.
+
+
 
 #### WeChat Group
 
